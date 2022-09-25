@@ -2,6 +2,7 @@
 Contains the basic to advanced concepts of python
 
 ## [Setup And Installation](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb)
+<img src="images/install0.png" style="float: right;" width=350 height=350/>
 - Basic Python Setup
     - Windows
     - Ubuntu
@@ -11,6 +12,7 @@ Contains the basic to advanced concepts of python
 - Google Colab
 
 ## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb)
+<img src="images/logo.png" style="float: right;" width=350 height=350/>
 - Output
 - Comments
 - Variables
@@ -18,6 +20,7 @@ Contains the basic to advanced concepts of python
 - Indentaion
 
 ## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb)
+<img src="images/operators.gif" style="float: right;" width=350 height=350/>
 - Arithmetic Operators
     - Addition
     - Subtraction
@@ -52,6 +55,7 @@ Contains the basic to advanced concepts of python
     - Is not
 
 ## [ Control Flow](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb)
+<img src="images/control_flow.gif" style="float: right;" width=350 height=350/>
 - Conditional Statements
     - if
     - if .. else
@@ -70,6 +74,7 @@ Contains the basic to advanced concepts of python
     - Lambda Functions
     - Global, Local and Nonlocal Variables
 ## [Data Type](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb)
+<img src="images/data_types.png" style="float: right;" width=350 height=350/>
 - Numbers
     - int
     - float
