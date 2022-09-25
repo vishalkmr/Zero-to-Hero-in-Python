@@ -69,3 +69,22 @@ Contains the basic to advanced concepts of python
     - Docstrings
     - Lambda Functions
     - Global, Local and Nonlocal Variables
+    
+## [ Control Flow](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true)
+- [Conditional Statements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Conditional_Statements)
+    - [if](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if)
+    - [if .. else](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if_else)
+    - [if .. elif .. else](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if_elif_else)
+    - [Nested if](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Nested_if)
+    - [switch](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#switch) 
+- [Iterative Statements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Iterative_Statements)
+    - [for loop](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#for)
+    - [while loop](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#while)
+- [Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Functions)
+    - [Arguments Passing](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Arguments_Passing)
+    - [Default Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Default_Arguments)
+    - [Positional & Keyword Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Positional_Keyword_Arguments)
+    - [Variable-Length Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Variable_Length_Arguments)
+    - [Docstrings](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Docstrings)
+    - [Lambda Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Lambda_Functions)     
+    - [Global, Local and Nonlocal Variables](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Global_Local_Nonlocal_Variables)
