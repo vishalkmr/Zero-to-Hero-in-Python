@@ -87,7 +87,6 @@ Contains the basic to advanced concepts of python
     - Arithmetic Operation on Lists
     - List Membership
     - List Comprehension
-<img src="images/data_types.png" style="float: right;" width=550 height=650/>
 - Tuple
     - Creating a Tuple
     - Accessing Tuple Elements
