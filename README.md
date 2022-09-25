@@ -16,3 +16,38 @@ Contains the basic to advanced concepts of python
 - Variables
 - Input
 - Indentaion
+
+## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb)
+- Arithmetic Operators
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Floor Division
+    - Exponentiation
+
+- Comparison Operators
+    - Greater than
+    - Less than
+    - Equal to
+    - Not equal to
+    - Greater than or equal to
+    - Less than or equal to
+- Logical Operators
+    - Or
+    - And
+    - Not
+- Bitwise Operators
+    - Bitwise OR
+    - Bitwise AND
+    - Bitwise Not
+    - Bitwise XOR
+    - Bitwise Right shift
+    - Bitwise Left shift
+- Assignment Operators
+- Membership Operators
+    - In
+    - Not in
+- Identity Operators
+    - Is
+    - Is not
