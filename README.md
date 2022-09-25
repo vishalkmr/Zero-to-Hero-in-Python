@@ -13,10 +13,12 @@ Contains the basic to advanced concepts of python
 - Google Colab
 
 ## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb)
-<img src="images/logo.png" style="float: right;" width=350 height=350/>
 - Output
 - Comments
 - Variables
+
+![my image](images/logo.png.jpg#left)
+
 - Input
 - Indentaion
 
@@ -128,3 +130,13 @@ Contains the basic to advanced concepts of python
     - Converting List items into a String
     - String Membership
  
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
