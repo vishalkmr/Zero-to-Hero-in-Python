@@ -2,7 +2,8 @@
 Contains the basic to advanced concepts of python
 
 ## [Setup And Installation](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb)
-<img src="images/install0.png" style="float: right;" width=350 height=350/>
+<img src="images/install0.png" style="float: right;" width=150 height=150/>
+
 - Basic Python Setup
     - Windows
     - Ubuntu
