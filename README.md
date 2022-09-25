@@ -10,7 +10,7 @@ Contains the basic to advanced concepts of python
     - Ubuntu
 - Google Colab
 
-## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb) <img src="images/logo.png" width=35 height=35/>
+## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb) <img src="images/logo1.png" width=25 height=25/>
 - Output
 - Comments
 - Variables
