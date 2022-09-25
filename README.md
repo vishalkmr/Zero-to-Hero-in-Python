@@ -69,4 +69,57 @@ Contains the basic to advanced concepts of python
     - Docstrings
     - Lambda Functions
     - Global, Local and Nonlocal Variables
+## [Python Data Type](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb)
+- Numbers
+    - int
+    - float
+    - complex
+- Boolean
+- List
+    - Creating a List
+    - Accessing List Elements
+    - Accessing the Index of an Element in the List
+    - Updating a List
+    - Inserting Elements to the List
+    - Deleting Elements from the List
+    - Miscellaneous Functions
+    - Copying  Lists
+    - Arithmetic Operation on Lists
+    - List Membership
+    - List Comprehension
+<img src="images/data_types.png" style="float: right;" width=550 height=650/>
+- Tuple
+    - Creating a Tuple
+    - Accessing Tuple Elements
+    - Updating Tuple
+    - Miscellaneous Functions
+    - Copying  Tuples
+    - Arithmetic Operation on Tuples
+    - Tuple Membership
+- Set
+    - Creating a Set
+    - Accessing Set Elements
+    - Inserting Elements to the Set
+    - Deleting Elements from the Set
+    - Set Operations
+    - Copying  Sets
+    - Arithmetic Operation on Sets
+    - Set Membership
+- Dictionary
+    - Creating a Dictionary
+    - Accessing Dictionary Elements
+    - Updating & Inserting Elements to the Dictionary
+    - Deleting Elements from the Dictionary
+    - Copying Dictionary 
+    - Dictionary Membership
+    - Dictionary Comprehension
+- Strings
+    - Creating a String
+    - Accessing Characters in a String 
+    - Updating a String
+    - String Operators
+    - Formatting Strings
+    - String Functions
+    - Converting List items into a String
+    - String Membership
  
