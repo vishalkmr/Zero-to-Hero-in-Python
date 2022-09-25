@@ -25,7 +25,6 @@ Contains the basic to advanced concepts of python
     - Division
     - Floor Division
     - Exponentiation
-
 - Comparison Operators
     - Greater than
     - Less than
@@ -51,3 +50,22 @@ Contains the basic to advanced concepts of python
 - Identity Operators
     - Is
     - Is not
+
+## [ Control Flow](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb)
+- Conditional Statements
+    - if
+    - if .. else
+    - if .. elif .. else
+    - Nested if
+    - switch
+- Iterative Statements
+    - for loop
+    - while loop
+- Functions
+    - Arguments Passing
+    - Default Arguments
+    - Positional & Keyword Arguments
+    - Variable-Length Arguments
+    - Docstrings
+    - Lambda Functions
+    - Global, Local and Nonlocal Variables
