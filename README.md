@@ -69,7 +69,7 @@ Contains the basic to advanced concepts of python
     - Docstrings
     - Lambda Functions
     - Global, Local and Nonlocal Variables
-## [Python Data Type](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb)
+## [Data Type](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb)
 - Numbers
     - int
     - float
