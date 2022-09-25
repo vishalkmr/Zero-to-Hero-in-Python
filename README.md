@@ -1,7 +1,7 @@
 # Zero-to-Hero-in-Python
 Contains the basic to advanced concepts of python
 
-## | [Setup And Installation](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb) | <img src="images/install0.png" style="float: right;" width=150 height=150/> |
+## | [Setup And Installation](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb) | <img src="images/install0.png" style="float: right;" width=15 height=15/> |
 - Basic Python Setup
     - Windows
     - Ubuntu
