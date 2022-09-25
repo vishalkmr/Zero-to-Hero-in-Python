@@ -5,8 +5,7 @@ Contains the basic to advanced concepts of python
 - Basic Python Setup
     - Windows
     - Ubuntu
-<img src="images/install0.png" style="float: right;" width=150 height=150/>    
-
+<img src="images/install0.png" style="float: right;" width=150 height=150/>
 - Anaconda Distribution Setup
     - Windows
     - Ubuntu
