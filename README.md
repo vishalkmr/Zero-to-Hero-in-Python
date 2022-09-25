@@ -17,7 +17,9 @@ Contains the basic to advanced concepts of python
 - Comments
 - Variables
 
-![my image](images/logo.png.jpg#left)
+| I am text to the left  | ![my image](images/logo.png) |
+
+
 
 - Input
 - Indentaion
