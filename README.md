@@ -17,7 +17,7 @@ Contains the basic to advanced concepts of python
 - Input
 - Indentaion
 
-## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb)  <img src="images/operators.gif" width=25 height=25/>
+## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb) <img src="images/operator.jpg" width=25 height=25/>
 - Arithmetic Operators
     - Addition
     - Subtraction
