@@ -10,15 +10,14 @@ Contains the basic to advanced concepts of python
     - Ubuntu
 - Google Colab
 
-## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb) <img src="images/logo.png" width=25 height=25/>
+## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb) <img src="images/logo.png" width=35 height=35/>
 - Output
 - Comments
 - Variables
 - Input
 - Indentaion
 
-## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb)
-<img src="images/operators.gif" width=25 height=25/>
+## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb)  <img src="images/operators.gif" width=25 height=25/>
 - Arithmetic Operators
     - Addition
     - Subtraction
@@ -52,7 +51,7 @@ Contains the basic to advanced concepts of python
     - Is
     - Is not
 
-## [ Control Flow](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb) <img src="images/control_flow.gif" width=25 height=25/>
+## [ Control Flow](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb) <img src="images/control_flow.png" width=25 height=25/>
 - Conditional Statements
     - if
     - if .. else
