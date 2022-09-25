@@ -16,11 +16,7 @@ Contains the basic to advanced concepts of python
 - Output
 - Comments
 - Variables
-
-| I am text to the left  | ![my image](images/logo.png) |
-
-
-
+![my image](images/logo.png#right)
 - Input
 - Indentaion
 
