@@ -15,8 +15,7 @@ Contains the basic to advanced concepts of python
 ## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb)
 - Output
 - Comments
-- Variables
-![my image](images/logo.png#right)
+- Variables ![my image](images/logo.png#right)
 - Input
 - Indentaion
 
