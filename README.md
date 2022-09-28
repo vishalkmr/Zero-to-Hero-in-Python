@@ -1,74 +1,75 @@
 # Zero-to-Hero-in-Python
 Contains the basic to advanced concepts of python
 
-##  [Setup And Installation](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb) <img src="images/install0.png" width=25 height=25/>
-- Basic Python Setup
-    - Windows
-    - Ubuntu
-- Anaconda Distribution Setup
-    - Windows
-    - Ubuntu
-- Google Colab
+## [Setup And Installation](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true) <img src="images/install0.png" width=25 height=25/>
+- [Basic Python Setup](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Python)
+    - [Windows](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Windows)
+    - [Ubuntu](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Ubuntu)
+- [Anaconda Distribution Setup](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Anaconda)
+    - [Windows](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Anaconda_Windows)
+    - [Ubuntu](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Anaconda_Ubuntu)
+- [Google Colab](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Setup%20And%20Installation.ipynb?flush_cache=true#Google_Colab)
 
-## [Getting Started With Python](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb) <img src="images/logo1.png" width=25 height=25/>
-- Output
-- Comments
-- Variables
-- Input
-- Indentaion
+## [Getting Started With Python](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true) <img src="images/logo1.png" width=25 height=25/>
+- [Output](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true#Output)
+- [Comments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true#Comments)
+- [Variables](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true#Variables)
+- [Input](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true#Input)
+- [Indentaion](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Getting%20Started%20With%20Python.ipynb?flush_cache=true#Indentaion)
 
-## [Operators](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb) <img src="images/operator.gif" width=25 height=25/>
-- Arithmetic Operators
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division
-    - Floor Division
-    - Exponentiation
-- Comparison Operators
-    - Greater than
-    - Less than
-    - Equal to
-    - Not equal to
-    - Greater than or equal to
-    - Less than or equal to
-- Logical Operators
-    - Or
-    - And
-    - Not
-- Bitwise Operators
-    - Bitwise OR
-    - Bitwise AND
-    - Bitwise Not
-    - Bitwise XOR
-    - Bitwise Right shift
-    - Bitwise Left shift
-- Assignment Operators
-- Membership Operators
-    - In
-    - Not in
-- Identity Operators
-    - Is
-    - Is not
+## [Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true) <img src="images/operator.gif" width=25 height=25/>
+- [Arithmetic Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Arithmetic_Operators)
+    - [Addition](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Addition)
+    - [Subtraction](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Subtraction)
+    - [Multiplication](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Multiplication)
+    - [Division](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Division)
+    - [Floor Division](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Floor_Division)
+    - [Exponentiation](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Exponentiation)
+- [Comparison Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Comparison_Operators)
+    - [Greater than](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Greater_than)
+    - [Less than](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Less_than)
+    - [Equal to](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Equal_to)
+    - [Not equal to](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Not_equal_to)
+    - [Greater than or equal to](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Greater_than_or_equal_to)
+    - [Less than or equal to](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Less_than_or_equal_to)
+- [Logical Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Logical_Operators)
+    - [Or](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Or)
+    - [And](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#And)
+    - [Not](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Not)
+- [Bitwise Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_Operators)
+    - [Bitwise OR](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_OR)
+    - [Bitwise AND](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_AND)
+    - [Bitwise Not](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_Not)
+    - [Bitwise XOR](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_XOR)
+    - [Bitwise Right shift](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_Right_shift)
+    - [Bitwise Left shift](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Bitwise_Left_shift)
+- [Assignment Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Assignment_Operators)
+- [Membership Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Membership_Operators)
+    - [In](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#In)
+    - [Not in](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Not_in)
+- [Identity Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Identity_Operators)
+    - [Is](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Is)
+    - [Is not](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Operators.ipynb?flush_cache=true#Is_not)
 
-## [ Control Flow](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb) <img src="images/control_flow.png" width=25 height=25/>
-- Conditional Statements
-    - if
-    - if .. else
-    - if .. elif .. else
-    - Nested if
-    - switch
-- Iterative Statements
-    - for loop
-    - while loop
-- Functions
-    - Arguments Passing
-    - Default Arguments
-    - Positional & Keyword Arguments
-    - Variable-Length Arguments
-    - Docstrings
-    - Lambda Functions
-    - Global, Local and Nonlocal Variables
+## [ Control Flow](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true) <img src="images/control_flow.png" width=25 height=25/>
+- [Conditional Statements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Conditional_Statements)
+    - [if](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if)
+    - [if .. else](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if_else)
+    - [if .. elif .. else](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#if_elif_else)
+    - [Nested if](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Nested_if)
+    - [switch](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#switch) 
+- [Iterative Statements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Iterative_Statements)
+    - [for loop](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#for)
+    - [while loop](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#while)
+- [Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Functions)
+    - [Arguments Passing](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Arguments_Passing)
+    - [Default Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Default_Arguments)
+    - [Positional & Keyword Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Positional_Keyword_Arguments)
+    - [Variable-Length Arguments](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Variable_Length_Arguments)
+    - [Docstrings](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Docstrings)
+    - [Lambda Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Lambda_Functions)     
+    - [Global, Local and Nonlocal Variables](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/%20Control%20Flow.ipynb?flush_cache=true#Global_Local_Nonlocal_Variables)
+
 
 
 ## [Data Type](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb?flush_cache=true) <img src="images/data_types.png" width=25 height=25/>
