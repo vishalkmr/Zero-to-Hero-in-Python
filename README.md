@@ -69,55 +69,57 @@ Contains the basic to advanced concepts of python
     - Docstrings
     - Lambda Functions
     - Global, Local and Nonlocal Variables
-## [Data Type](https://github.com/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb)  <img src="images/data_types.png" width=25 height=25/>
-- Numbers
-    - int
-    - float
-    - complex
-- Boolean
-- List
-    - Creating a List
-    - Accessing List Elements
-    - Accessing the Index of an Element in the List
-    - Updating a List
-    - Inserting Elements to the List
-    - Deleting Elements from the List
-    - Miscellaneous Functions
-    - Copying  Lists
-    - Arithmetic Operation on Lists
-    - List Membership
-    - List Comprehension
-- Tuple
-    - Creating a Tuple
-    - Accessing Tuple Elements
-    - Updating Tuple
-    - Miscellaneous Functions
-    - Copying  Tuples
-    - Arithmetic Operation on Tuples
-    - Tuple Membership
-- Set
-    - Creating a Set
-    - Accessing Set Elements
-    - Inserting Elements to the Set
-    - Deleting Elements from the Set
-    - Set Operations
-    - Copying  Sets
-    - Arithmetic Operation on Sets
-    - Set Membership
-- Dictionary
-    - Creating a Dictionary
-    - Accessing Dictionary Elements
-    - Updating & Inserting Elements to the Dictionary
-    - Deleting Elements from the Dictionary
-    - Copying Dictionary 
-    - Dictionary Membership
-    - Dictionary Comprehension
-- Strings
-    - Creating a String
-    - Accessing Characters in a String 
-    - Updating a String
-    - String Operators
-    - Formatting Strings
-    - String Functions
-    - Converting List items into a String
-    - String Membership
+
+## [Python Data Type](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true) <img src="images/data_types.png" width=25 height=25/>
+- [Numbers](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Numbers)
+    - [int](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#int)
+    - [float](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#float)
+    - [complex](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#complex)
+- [Boolean](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Boolean)
+- [List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#List)
+    - [Creating a List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Creating_List)
+    - [Accessing List Elements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_List)
+    - [Accessing the Index of an Element in the List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_List_Index)
+    - [Updating a List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Updating_List)       
+    - [Inserting Elements to the List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Inserting_List)    
+    - [Deleting Elements from the List](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Deleting_List)    
+    - [Miscellaneous Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Miscellaneous_Functions_List)    
+    - [Copying  Lists](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Copying_List)        
+    - [Arithmetic Operation on Lists](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Arithmetic_List)
+    - [List Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#List_Membership)
+    - [List Comprehension](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Comprehension_List)    
+https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true<img src="images/data_types.png" style="float: right;" width=550 height=650/>
+- [Tuple](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Tuple)
+    - [Creating a Tuple](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Creating_Tuple)
+    - [Accessing Tuple Elements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_Tuple)    
+    - [Updating Tuple](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Updating_Tuple)       
+    - [Miscellaneous Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Miscellaneous_Functions_Tuple)    
+    - [Copying  Tuples](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Copying_Tuple)        
+    - [Arithmetic Operation on Tuples](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Arithmetic_Tuple)
+    - [Tuple Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Tuple_Membership)
+- [Set](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Set)
+    - [Creating a Set](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Creating_Set)
+    - [Accessing Set Elements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_Set)     
+    - [Inserting Elements to the Set](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Inserting_Set)    
+    - [Deleting Elements from the Set](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Deleting_Set)    
+    - [Set Operations](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Set_Operations)    
+    - [Copying  Sets](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Copying_Set)
+    - [Arithmetic Operation on Sets](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Arithmetic_Set)
+    - [Set Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Set_Membership)
+- [Dictionary](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Dictionary)
+    - [Creating a Dictionary](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Creating_Dictionary)
+    - [Accessing Dictionary Elements](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_Dictionary)
+    - [Updating & Inserting Elements to the Dictionary](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Updating_Dictionary)          
+    - [Deleting Elements from the Dictionary](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Deleting_Dictionary)     
+    - [Copying Dictionary ](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Copying_Dictionary)        
+    - [Dictionary Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Dictionary_Membership)
+    - [Dictionary Comprehension](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Comprehension_Dictionary)   
+- [Strings](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Strings)
+    - [Creating a String](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Creating_String)
+    - [Accessing Characters in a String ](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Accessing_String)
+    - [Updating a String](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Updating_String)          
+    - [String Operators](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#String_Operators)    
+    - [Formatting Strings](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Formatting_Strings) 
+    - [String Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#String_Functions) 
+    - [Converting List items into a String](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#Converting_String)        
+    - [String Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Python%20Data%20Type.ipynb?flush_cache=true#String_Membership)
