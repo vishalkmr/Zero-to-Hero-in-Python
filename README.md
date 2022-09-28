@@ -124,3 +124,10 @@ Contains the basic to advanced concepts of python
     - [String Functions](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb?flush_cache=true#String_Functions) 
     - [Converting List items into a String](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb?flush_cache=true#Converting_String)        
     - [String Membership](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Data%20Type.ipynb?flush_cache=true#String_Membership)
+    
+## [Reading and Writing Files](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true) <img src="images/files.gif" width=25 height=25/>
+- [Files Concept](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true#Files_Concept)
+- [Opening and Closing a File](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true#Opening_Closing)
+- [Writing to Files](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true#Writing_Files)
+- [Reading a Files ](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true#Reading_Files)
+- [Miscellaneous File Operations](https://nbviewer.org/github/vishalkmr/Zero-to-Hero-in-Python/blob/main/Reading%20and%20Writing%20Files.ipynb?flush_cache=true#Miscellaneous_Operations)
